@@ -4,9 +4,9 @@
 
 ## 🎮 Gameplay and Rules
 
-* **The Grid:** The game is played on a 10x10 board with 10 hidden mines. Board size and mine count can be adjusted in the main while creating a 
+* **The Grid:** The game is played on a 10x10 board with 10 hidden mines.
 * **Coordinates:** Rows are labeled with letters (`A` to `J`), and columns are labeled with numbers (`0` to `9`).
-* **Objective:** Reveal all safe cells. You win when the only unrevealed cells left are the ones containing mines.
+* **Objective:** This is a classic minesweeper game. Reveal all safe cells. You win when the only unrevealed cells left are the ones containing mines.
 * **Clues:** When you open a safe cell, it will display a number indicating how many mines are hidden in its 8 neighboring cells. If a cell has no adjacent mines, it will automatically open all surrounding safe cells!
 * **Flags:** If you suspect a cell hides a mine, you can place a Flag (`F`) on it to prevent yourself from accidentally opening it.
 
