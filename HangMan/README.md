@@ -36,6 +36,3 @@ To compile and play this game, you need a C++ compiler (like G++) installed on y
 ## 🛠️ Built With
 * C++ Programming Language
 * Standard C++ Libraries (`<iostream>`, `<string>`, `<cstdlib>`, `<cctype>`)
-
----
-*This game is a part of the [My-CLI-Games](https://github.com/YOUR_USERNAME/My-CLI-Games) repository.*
