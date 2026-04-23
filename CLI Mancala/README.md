@@ -51,6 +51,3 @@ To compile and play this game, you need a C compiler (like GCC) installed on you
 ## 🛠️ Built With
 * C Programming Language
 * Standard C Libraries (`stdio.h`)
-
----
-*This game is a part of the [My-CLI-Games](https://github.com/YOUR_USERNAME/My-CLI-Games) repository.*
