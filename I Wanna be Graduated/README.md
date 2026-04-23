@@ -49,6 +49,3 @@ To compile and play this game on your local machine, you need a C compiler (such
 ## 🛠️ Built With
 * C Programming Language
 * Standard C Libraries (`stdio.h`, `stdlib.h`, `time.h`)
-
----
-*This game is a part of the [My-CLI-Games](https://github.com/YOUR_USERNAME/My-CLI-Games) repository.*
