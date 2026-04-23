@@ -1,8 +1,8 @@
 ﻿#include <iostream>
 #include <vector>
-#include <cstdlib> // srand, rand, system
-#include <ctime>   // time
-#include <cctype>  // toupper
+#include <cstdlib>
+#include <ctime> 
+#include <cctype> 
 
 using namespace std;
 
