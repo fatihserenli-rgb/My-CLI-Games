@@ -34,7 +34,7 @@ To compile and play this game on your local machine, you need a C compiler (such
 1.  Open your terminal or command prompt.
 2.  Navigate to the directory containing the source code and compile it using the following command:
     ```bash
-    gcc FatihMehmet_Serenli.c -o ects_maze
+    gcc IWannaBeGraduated.c -o ects_maze
     ```
 3.  Run the compiled game:
     * **Linux / macOS:**
